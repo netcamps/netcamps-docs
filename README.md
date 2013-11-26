@@ -1,2 +1,2 @@
-NetCamps Independant Web Developer & Designer Documentation
-===========================================================
+NetCamps for Developers
+=======================
